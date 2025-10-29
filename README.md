@@ -2,10 +2,14 @@
 Coleção de pequenos projetos e desafios em Python criados para praticar lógica de programação e automação.
 
 ## Projetos incluídos:
-- Avaliação de desempenho de colaboradores
-- Sistema de descontos da loja inteligente
-- Calculadora de bônus salarial
-- Painel de desempenho da empresa
+- Avaliação de desempenho de colaboradores.
+- Sistema de descontos da loja inteligente.
+- Calculadora de bônus salarial.
+- Painel de desempenho da empresa.
+- Avaliação de Metas de Vendas.
+- Calculadora de Comissão.
+- Sistema de Acesso ao escritório.
+- Sistema de Acesso Corporativo.
 
 ## Tecnologias
 - Python 3
