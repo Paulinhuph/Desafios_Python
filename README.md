@@ -11,6 +11,7 @@ Coleção de pequenos projetos e desafios em Python criados para praticar lógic
 - Sistema de Acesso ao escritório.
 - Sistema de Acesso Corporativo.
 - Desafio de Atena.
+- O Despertar da I.A. Oráculo
 
 ## Tecnologias
 - Python 3
