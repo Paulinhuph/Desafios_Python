@@ -10,6 +10,7 @@ Coleção de pequenos projetos e desafios em Python criados para praticar lógic
 - Calculadora de Comissão.
 - Sistema de Acesso ao escritório.
 - Sistema de Acesso Corporativo.
+- Desafio de Atena.
 
 ## Tecnologias
 - Python 3
