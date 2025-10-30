@@ -26,4 +26,5 @@ if energy >= 70 and gb >= 500 and taxa_precisao >= 90:
 elif energy >= 50 and taxa_precisao >= 70 and gb < 500:
     print("Oráculo ainda está aprendendo... mais dados são necessários. 📚")
 else:
+
     print("Falha no sistema. Oráculo entrou em modo de hibernação. 💤")
