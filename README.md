@@ -15,6 +15,7 @@ Coleção de pequenos projetos e desafios em Python criados para praticar lógic
 - Sistema de Avaliação Corporativa – BiuAnalytics
 - Sistema de Feedback Inteligente do Colaborador – BiuMind Corp.
 - Sistema de Contagem de Partos da Maternidade - JJMS.
+- Sistema de Dados Individuais de Parto com relatório.
 
 ## Tecnologias
 - Python 3
